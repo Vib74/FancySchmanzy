@@ -1,3 +1,103 @@
-body {
-	background-color: aliceblue;
+body{
+	margin: 0;
 }
+header{
+	background-color: #FCD9EC;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+h1 {
+	font-family: 'Montez', cursive;
+}
+h2{
+	font-family: comfortaa, helvetica;
+	font-size: 25px;
+	color: #2A6395;
+	}
+h3{
+	font-family: cursive;
+	font-size: 15px;
+	color: deeppink;
+	}
+p{
+	font-family: cursive;
+	font-size: 15px;
+
+}
+li{
+	font-family: cursive;
+	font-size: 15px;	
+}	
+li:hover{
+	color: floralwhite;
+	background-color: deeppink;
+	font-size: 20px;
+}
+
+header h1{
+	color: deeppink;
+	font-size: 60px;
+	
+}
+header img{
+	border-radius: 350px;
+	width: 353px;
+    height: 347px;
+    border: 15px solid deeppink;
+
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+main img{
+	max-width: 75%;
+}
+main img:hover{
+	-ms-transform: scale(1.2); /* IE 9 */
+  -webkit-transform: scale(1.2); /* Safari 3-8 */
+  transform: scale(1.2);
+}
+
+main img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+.parent-element {
+  text-align: center;
+}
+
+.parent-element ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.parent-element ul li {
+  margin: 0;
+  padding: 0;
+}
+
+footer{
+
+	background-color: deeppink;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+footer p{
+	font-family: comfortaa, cursive;
+	font-size: 25px;
+	color: floralwhite;
+}
+
+p.bell{
+	color: darkturquoise;
+}
+p.bell:hover{
+	color: violet}

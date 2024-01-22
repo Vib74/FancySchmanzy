@@ -56,9 +56,9 @@ main img{
 	max-width: 75%;
 }
 main img:hover{
-	-ms-transform: scale(1.2); /* IE 9 */
-  -webkit-transform: scale(1.2); /* Safari 3-8 */
-  transform: scale(1.2);
+	-ms-transform: scale(1.7); /* IE 9 */
+  -webkit-transform: scale(1.7); /* Safari 3-8 */
+  transform: scale(1.7);
 }
 
 main img{

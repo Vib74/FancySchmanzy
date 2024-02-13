@@ -31,6 +31,7 @@ li{
 }	
 li:hover{
 	background-color: deeppink;
+	font-size: 15px;
 }
 
 header h1{
